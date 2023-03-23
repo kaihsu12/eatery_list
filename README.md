@@ -1,6 +1,6 @@
 # Restaurant Review Website
 
-[!screenshot](./public/images/eatery_site.jpg)
+[!screenshot](./public/images/eatery_site.png)
 
 ## About Project
 
