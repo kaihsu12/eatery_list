@@ -1,5 +1,7 @@
 # Restaurant Review Website
 
+[!screenshot](./public/images/eatery_site.jpg)
+
 ## About Project
 
 A website that lists a range of restaurants to review and offers a search engine for users to look for specific restaurants
