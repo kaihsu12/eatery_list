@@ -2,7 +2,7 @@
 
 ## About Project
 
-A website that helps users review the searched restrauants
+A website that lists a range of restaurants to review and offers a search engine for users to look for specific restaurants
 
 ## Features
 
